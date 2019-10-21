@@ -5,6 +5,10 @@
 
 My partner Alex Yu and I are long time game enthusiasts, playing a variety of games ranging from mobile to computer to console games. We have decided to make a mobile game using Unity's 2D game engine.
 
+### Defining the problem
+
+My partner and I noticed a lack of mobile games that were survival-based, multiplayer, and does not require a high performance phone.
+
 ### About the game
 
 The game will be a multiplayer survival game with character movements and a lot of interactivitiy between the players and the game. So far, we have decided for the game to have features including singleplayer and team modes.
