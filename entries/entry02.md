@@ -9,9 +9,9 @@
 
 #### Coming up with a blueprint
   The gameplay of the web based game will be played using a keyboard and a mouse. Although my partner and I do not have the final decisions for the controls of the game, we have decided to use four keys to control the movement of the car ingame, "W" , "A" , "S" , and "D". These four letters will allow the users car to drift up, left , down, and right respectively.
-  ![wasd](https://toppng.com/uploads/preview/wasd-keys-png-wasd-keys-11562858827u3bz8nzi7e.png =250x250)
-  We have also gained motivation from a unique web game , [infinitown](https://demos.littleworkshop.fr/infinitown) because of its good, simple graphics that we wanted to have in our game.
-  ![infinitown](https://i.gyazo.com/3818000583c99ef2151f66c2b022756b.jpg =250x250)
+  ![wasd](https://toppng.com/uploads/preview/wasd-keys-png-wasd-keys-11562858827u3bz8nzi7e.png | width=250)
+  We have also gained motivation from a unique web demo , [infinitown](https://demos.littleworkshop.fr/infinitown) because of its good, simple graphics that we wanted to have in our game.
+  ![infinitown](https://i.gyazo.com/3818000583c99ef2151f66c2b022756b.jpg | width=250)
 
 #### Tinkering
   My partner and I are both working on the gameplay of the game using three.js. Three.js is a javascript library that focuses on creating and displaying animated 3D graphics onto a web browser. The capabilities of three.js includes making games, making 3D interactive objects, and 3D large-scaled models.
