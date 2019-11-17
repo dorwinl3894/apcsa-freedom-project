@@ -2,7 +2,7 @@
 ##### 11/16/19
 
 #### Overview
-  My partner and I have decided to commit to making our web based game, which will be hosted in our current website name, swizzy.xyz.
+  My partner and I have decided to commit to making our web based game, which will probably be hosted with the website name, swizzy.xyz.
 
 #### Why are we making this?
   Unfortunately, there are very few web based racing games that are good in the web. While searching the web for a car racing game that had good, simple graphics, and a clear gameplay, we only found a few, but none of them were perfect.
