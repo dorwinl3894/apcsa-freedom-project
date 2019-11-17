@@ -12,6 +12,7 @@
   ![wasd](https://toppng.com/uploads/preview/wasd-keys-png-wasd-keys-11562858827u3bz8nzi7e.png | width=250)
   We have also gained motivation from a unique web demo , [infinitown](https://demos.littleworkshop.fr/infinitown) because of its good, simple graphics that we wanted to have in our game.
   ![infinitown](https://i.gyazo.com/3818000583c99ef2151f66c2b022756b.jpg | width=250)
+  <img src="https://i.gyazo.com/3818000583c99ef2151f66c2b022756b.jpg" align="middle" height="250" width="250" >
 
 #### Tinkering
   My partner and I are both working on the gameplay of the game using three.js. Three.js is a javascript library that focuses on creating and displaying animated 3D graphics onto a web browser. The capabilities of three.js includes making games, making 3D interactive objects, and 3D large-scaled models.
