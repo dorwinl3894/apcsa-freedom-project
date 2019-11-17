@@ -7,7 +7,7 @@
 #### Why are we making this?
   Unfortunately, there are very few web based racing games that are good in the web. While searching the web for a car racing game that had good, simple graphics, and a clear gameplay, we only found a few, but none of them were perfect.
   <br>
-  Fortunately, my partner and I found the opportunitiy to make a racing game to satisfy the niche that was left unfilled until now. A web based racing game that had great graphics, easy on the computer to handle, and fun gameplay.
+  Fortunately, my partner and I found the opportunitiy to make a racing game to satisfy the niche that was left unfilled until now. A web based racing game that has great graphics, easy on the computer to handle, and fun gameplay.
 
 #### Coming up with a blueprint
   The gameplay of the web based game will be played using a keyboard and a mouse. Although my partner and I do not have the final decisions for the controls of the game, we have decided to use four keys to control the movement of the car ingame, "W" , "A" , "S" , and "D". These four letters will allow the users car to drift up, left , down, and right respectively.
