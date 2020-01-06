@@ -64,7 +64,14 @@ The code that I had obtained from the website is
 </html>
 ```    
 And this is the result.
-![Starter Code](https://i.gyazo.com/f0c67cfc5ccc20588d866037e80dc7c1.png)
+![Starter Code](https://i.gyazo.com/f0c67cfc5ccc20588d866037e80dc7c1.png)   
+My next step toward this is to use what I learn in the videos above to use what I make in Blender and implement it into Three.js. So far, Three.js has not been completely unfamiliar becasue I have already learned the basics of Javascript and a lot about P5.js which is another javascript framework to make games in. However three.js has different syntax that I would need to make myself familiar with, but with practice and learning, I should be able to understand what I code.   
+
+### Skills this project has taught me so far.
+Not only am I learning collaboration skills, but I am also developing a stronger growth mindset. Working with somebody has taught me that the beginning will most likely not be a smooth sail, but a rocky start because there needs to be communication between the partners to have a goal that both of you are happy to work on. My partner and I have had a rocky start deciding on what to ultimately use for our project, and we persisted and decided on something that we both wanted to learn more about. This project has already helped in further developing my growth mindset because I realize that I need to have the patience and determination to learn, and learning a new framework and program may be overwhelming, but it is possible. Also, my partner is very knowledgable in javascript, so I learned to not be afriad to ask him for any tips and tricks when programming in this language.    
+
+### Conclusion
+Overall, I am pleased with the progress that my partner, Alex, and I have made so far into the project. We have decided together on a project to create using Three.js, Blender, and Typescript. I will be trying my best to learn Three.js and Blender, and I am learning something new every week to make sure I Three.js and Blender well enough to move on from a Prototype and work on the real application.    
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
