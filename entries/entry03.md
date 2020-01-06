@@ -31,10 +31,10 @@ The code that I had obtained from the website is
 		</style>
 	</head>
 	<body>
-		<script src="https://threejs.org/build/three.js"></script>
-		<script>
-		    //Creates a scene
-			var scene = new THREE.Scene();
+	    <script src="https://threejs.org/build/three.js"></script>
+	    <script>
+	    //Creates a scene
+	    var scene = new THREE.Scene();
             var camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
 
             //Rendering the scene to actually see the stuff we code
