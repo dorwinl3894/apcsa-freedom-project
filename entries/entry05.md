@@ -52,7 +52,11 @@ document.querySelector("#btn-start")?.addEventListener("click", async () => {
 
   new OrbitControls(game.video.camera, game.video.renderer.domElement);
 });
-```
+```   
+### Skills
+Not only is this project teaching me a lot about 3D Modeling, Javascript, and creating web based games, it is also teaching me a lot of interpersonal skills such as communication, having a growth mindset, and honing my creativity skills. This project requires a lot of creativity and is limitless in terms of what my partner and I are able to do which is both exciting and scary. Since Blender and Javascript are two very different and broad topics, developing a growth mindset helps me to stay disciplined and motivated to learn a bit more every few days to make sure I know enough to be confident in my ability to contirbute my part in the project.  
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
